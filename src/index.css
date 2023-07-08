@@ -1,0 +1,29 @@
+:root {
+    --white : #f9f9f9;
+    --first-pink : #DF5BD3;
+    --first-violet : #7E5BF6;
+    --degradade-pink-violet : linear-gradient(var(--first-pink), var(--first-violet));
+    --degradade-violet-pink : linear-gradient(var(--first-violet), var(--first-pink));
+    --second-violet : #C9C8F5;
+    --font-color-navbar: #7B7B7B;
+    --font-color-text: #5C5C5C;
+    --font-family-nav-text: 'Cabin';
+    --font-family-logo-header: 'Gruppo';
+    --font-family-header: 'Hammersmith One';
+    --font-family-carreras-titulo: 'Londrina Outline';
+    --moon : #F0F0F0;
+}
+
+* {
+    margin: 0px;
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+::-webkit-scrollbar-thumb {
+    background: var(--degradade-pink-violet);
+    border-radius: 20px;
+}

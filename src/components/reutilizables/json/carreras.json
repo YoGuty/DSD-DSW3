@@ -1,0 +1,75 @@
+{
+       "medicina" : [{
+            "id" : 1,
+            "universidad" : "UBA",
+            "subtitulo" : "Facultad de Medicina de la Universidad de Buenos Aires",
+            "contacto" : "011 5950-9500",
+            "direccion" : "Paraguay 2155, C1121 ABG, Buenos Aires",
+            "duracion" : "7 años",
+            "sitio_web" : "https://www.fmed.uba.ar/"
+        }, {
+            "id" : 2,
+            "universidad" : "F.B",
+            "subtitulo" : "Fundación Barceló, Instituto Universitario de Ciencias de la Salud",
+            "contacto" : "011 4800-0200",
+            "direccion" : "AAB, Av. Gral. Las Heras 1907, C1127 Buenos Aires",
+            "duracion" : "7 años",
+            "sitio_web" : "https://www.barcelo.edu.ar/carreras-medicina"
+        }, {
+            "id" : 3,
+            "universidad" : "UNLP",
+            "subtitulo" : "Universidad Nacional de La Plata",
+            "contacto" : "0221 482-4894",
+            "direccion" : "Calle 60 y 120, Fac. de Cs. Médicas, UNLP. (1900), La Plata, Provincia de Buenos Aires",
+            "duracion" : "6 años",
+            "sitio_web" : "https://unlp.edu.ar/"
+        }], "abogacia" : [{
+            "id" : 1,
+            "universidad" : "UBA",
+            "subtitulo" : "Facultad de Derecho",
+            "contacto" : "011 4809-5600",
+            "direccion" : "Av. Pres. Figueroa Alcorta 2263, C1425 CABA",
+            "duracion" : "7 años",
+            "sitio_web" : "http://www.derecho.uba.ar/academica/carreras_grado/abogacia.php"
+        }, {
+            "id" : 2,
+            "universidad" : "UNC",
+            "subtitulo" : "Universidad Nacional de Córdoba, Facultad de Derecho",
+            "contacto" : "0351 433-2060",
+            "direccion" : "Obispo Trejo 242, X5000IUE Córdoba",
+            "duracion" : "5 años",
+            "sitio_web" : "https://derecho.unc.edu.ar/alumnos/abogacia/"
+        }, {
+            "id" : 3,
+            "universidad" : "UNLAM",
+            "subtitulo" : "Universidad Nacional de La Matanza",
+            "contacto" : "011 4480-8900",
+            "direccion" : "Florencio Varela 1903, B1754 San Justo, Provincia de Buenos Aires",
+            "duracion" : "5 años",
+            "sitio_web" : "https://derecho.unlam.edu.ar/index.php?seccion=3&idArticulo=366"
+        }] , "contabilidad" : [{
+            "id" : 1,
+            "universidad" : "UNLAM",
+            "subtitulo" : "Universidad Nacional de La Matanza, Departamento de Economicas",
+            "contacto" : "011 4480-8900",
+            "direccion" : "Florencio Varela 1903, B1754 San Justo, Provincia de Buenos Aires",
+            "duracion" : "4 años",
+            "sitio_web" : "https://www.unlam.edu.ar/index.php?seccion=3&idArticulo=44"
+        }, {
+            "id" : 2,
+            "universidad" : "UNICEN",
+            "subtitulo" : "Universidad Nacional del Centro de la Provincia de Buenos Aires",
+            "contacto" : "0249 442-2000",
+            "direccion" : "Pinto 399, Tandil, Provincia de Buenos Aires",
+            "duracion" : "5 años",
+            "sitio_web" : "https://www.unicen.edu.ar/content/contador-p%C3%BAblico"
+        }, {
+            "id" : 3,
+            "universidad" : "UNMdP",
+            "subtitulo" : "Universidad Nacional de Mar del Plata",
+            "contacto" : "0223 475-3150",
+            "direccion" : "Deán Funes 3350, B7602AYL Mar del Plata, Provincia de Buenos Aires",
+            "duracion" : "5 años",
+            "sitio_web" : "https://eco.mdp.edu.ar/perfil-contador"
+        }]
+}

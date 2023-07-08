@@ -1,0 +1,32 @@
+.contenido_explicativo {
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+}
+
+.contenido_explicativo h1 {
+    font-family: var(--font-family-header);
+    font-size: 55px;
+    letter-spacing: 5px;
+    margin-bottom: 55px;
+    color: var(--first-violet);
+}
+
+.contenido_explicativo p, .contenido_explicativo li {
+    color: var(--font-color-text);
+    font-size: 20px;
+    font-family: var(--font-family-nav-text);
+    line-height: 40px;
+    text-align: justify;
+    text-indent: 20px;
+    margin-bottom: 0.5px;
+}
+
+.contenido_explicativo span {
+    text-decoration: none;
+    color: var(--first-violet);
+}
+
+.title-text {
+    margin: 109px 97px;
+}

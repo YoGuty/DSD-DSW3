@@ -1,0 +1,43 @@
+.rosa {
+    width: 350px;
+    height: 450px;
+    margin: 55px;
+    padding: 40px 34px;
+    background-color: var(--white);
+    border-radius: 20px;
+    filter: drop-shadow(0px 12px 20px rgba(0, 0, 0, 0.07));
+}
+
+.main-carreras {
+    color: var(--first-violet);
+    font-family: var(--font-family-header);
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.main-carreras h2{
+    font-size: 50px;
+}
+
+.main-carreras h4{
+    font-size: 15px;
+}
+
+.secciones {
+    font-family: var(--font-family-nav-text);
+    color: var(--font-color-text);
+    margin-bottom: 80px;
+}
+
+.secciones span{
+    color: var(--first-violet);
+}
+
+.ver-mas {
+    text-align: center;
+}
+
+.ver-mas a {
+    text-decoration: none;
+    color: var(--first-violet);
+}

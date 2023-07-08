@@ -1,0 +1,31 @@
+.contenido2 {
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+}
+
+.grey {
+    background-color: var(--moon) !important;
+}
+
+.contenido2 h1 {
+    font-family: var(--font-family-header);
+    font-size: 55px;
+    letter-spacing: 5px;
+    margin-bottom: 55px;
+    color: var(--first-violet);
+}
+
+.contenido2 p, .contenido2 li {
+    color: var(--font-color-text);
+    font-size: 20px;
+    font-family: var(--font-family-nav-text);
+    line-height: 40px;
+    text-align: justify;
+    text-indent: 20px;
+    margin-bottom: 0.5px;
+}
+
+.title-text2 {
+    margin: 76px 97px;
+}

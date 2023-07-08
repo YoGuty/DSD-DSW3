@@ -1,0 +1,63 @@
+.header {
+    background-color: var(--first-violet);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.747), rgba(23, 0, 32, 0.747)), url(https://quecarreraestudio.com/wp-content/uploads/guia_para_elegir_carrera-1024x674.jpg);
+    background-size: cover;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 587px;
+}
+
+.Contenido {
+    margin: 200px 475px 203px 100px;
+}
+
+.Titulo {
+    display: flex;
+    font-family: var(--font-family-header);
+}
+
+.Titulo h1 {
+    margin-right: 20px;
+    font-size: 64px;
+}
+
+.p-v {
+    background-image: var(--degradade-pink-violet);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.v-p {
+    background-image: var(--degradade-violet-pink);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.Contenido h3 {
+    font-family: var(--font-family-logo-header);
+    font-size: 30px;
+    color: var(--white);
+}
+
+.redes {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    font-size: 30px;
+    right: 0px;
+    top: 200px;
+    margin-right: 20px;
+}
+
+.redes a {
+    margin: 30px;
+    text-decoration: none;
+    background-image: var(--degradade-pink-violet);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
